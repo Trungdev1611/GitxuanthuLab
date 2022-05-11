@@ -1,1 +1,2 @@
 noi dung 0
+chinh sua noi dung file 0.txt tu nhanh master
